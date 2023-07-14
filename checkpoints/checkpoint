@@ -1,0 +1,2 @@
+model_checkpoint_path: "lstm_no_regularization_40_seqlen"
+all_model_checkpoint_paths: "lstm_no_regularization_40_seqlen"
