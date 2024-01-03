@@ -24,6 +24,10 @@ leveraging the patterns learned from the Gutenberg Poetry Corpus.
 LSTM, or Long Short-Term Memory model, is a type of RNN particularly 
 adept at learning long-term dependencies, making it ideal for sequence data like poetry.
 
+### RMSprop
+
+An optimization technique that improves stability for smaller batch sizes and ensures similar gradient updates across mini-batches.
+
 ### Early Stopping
 
 A regularization technique to prevent overfitting by halting training when the validation set accuracy diverges from the training set.
