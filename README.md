@@ -7,6 +7,7 @@ to ensure a successful endeavor, ranging from the use of an LTSM model to regula
 like ES and RMSprop, all of which will be explained in the proceeding sections.
 
 More in-depth write-up here:
+
 [Image to Poem: Translating Visual Aesthetics into Poetic Expression by Ronald Mishiev and Zach Paronto](https://medium.com/@ronaldmishiev/producing-a-poem-from-any-image-ce4319f3c34f)
 
 ## The Data
