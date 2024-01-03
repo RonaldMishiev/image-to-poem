@@ -6,6 +6,9 @@ translate the context of an image into a form of expressive text — a poem. For
 to ensure a successful endeavor, ranging from the use of an LTSM model to regularization/overfitting features 
 like ES and RMSprop, all of which will be explained in the proceeding sections.
 
+More in-depth write-up here:
+[Image to Poem: Translating Visual Aesthetics into Poetic Expression by Ronald Mishiev and Zach Paronto](https://medium.com/@ronaldmishiev/producing-a-poem-from-any-image-ce4319f3c34f)
+
 ## The Data
 
 We utilized the Gutenberg Poetry Corpus, which comprises millions of lines of poetry, each associated with its poem's ID. 
